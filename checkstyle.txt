@@ -1,0 +1,7 @@
+Starting audit...
+[ERROR] C:\Users\Mihai\IdeaProjects\teme-tema1-2020\teme\tema1\Tema-POO-2020\.\src\entertainment\Season.java:46:46: 'userWhoRated' hides a field. [HiddenField]
+[ERROR] C:\Users\Mihai\IdeaProjects\teme-tema1-2020\teme\tema1\Tema-POO-2020\.\src\entertainment\SolveAction.java:3:14: Using the '.*' form of import should be avoided - fileio.*. [AvoidStarImport]
+[ERROR] C:\Users\Mihai\IdeaProjects\teme-tema1-2020\teme\tema1\Tema-POO-2020\.\src\main\Main.java:1: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\Mihai\IdeaProjects\teme-tema1-2020\teme\tema1\Tema-POO-2020\.\src\main\Main.java:7:14: Using the '.*' form of import should be avoided - fileio.*. [AvoidStarImport]
+Audit done.
+Checkstyle ends with 4 errors.
